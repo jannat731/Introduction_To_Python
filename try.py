@@ -1,4 +1,7 @@
-sub = "Python"
+a = 20
+b = 8
+sub = a-b
+print(sub)
 
-print("My new journey is to learn "+sub)
-print(sub+ " is a demanding programming language")
+multi = a*b
+print("Multiplication is: ",multi)
