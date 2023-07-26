@@ -1,7 +1,5 @@
-a = 20
-b = 8
-sub = a-b
-print(sub)
+if 5>2:
+        print("Five is greater than two!")
 
-multi = a*b
-print("Multiplication is: ",multi)
+'''if 5>1:
+        print("Five is greater than two!")'''
